@@ -10,7 +10,12 @@ call pathogen#helptags()
 filetype off
 
 syntax on
-colorscheme blackbeauty
+colorscheme crt
+"colorscheme rootwater
+"colorscheme matrix
+"colorscheme doriath
+"colorscheme MountainDew
+set gfn=Monospace\ 16
 set hlsearch
 :hi Search ctermfg='red' ctermbg='white'
 

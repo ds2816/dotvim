@@ -10,7 +10,7 @@ call pathogen#helptags()
 filetype off
 
 syntax on
-colorscheme blackbeauty
+colorscheme crt
 set hlsearch
 :hi Search ctermfg='red' ctermbg='white'
 
