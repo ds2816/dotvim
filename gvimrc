@@ -18,6 +18,12 @@ colorscheme crt
 set gfn=Monospace\ 16
 set hlsearch
 :hi Search ctermfg='red' ctermbg='white'
+"**********************
+"Set 8-space tabbing for haskell
+"**********************
+:set tabstop=8
+:set shiftwidth=8
+:set expandtab
 
 "**********************
 "SEARCHING
